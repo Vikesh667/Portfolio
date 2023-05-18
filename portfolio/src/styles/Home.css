@@ -28,6 +28,8 @@
   font-size: 2.5rem;
   color: #e9d35b;
   height: 50px;
+  animation: text  1s linear infinite;
+  
 }
 
 .about .prompt {

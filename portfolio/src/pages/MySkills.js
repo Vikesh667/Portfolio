@@ -3,7 +3,7 @@ import '../styles/Skill.css'
 import  imge from '../assets/giphy.gif'
 import  imge2 from '../assets/logo-geabfaac30_1920.png'
 import  imge3 from '../assets/csslogo.png'
-import  imge4 from '../assets/JavaScriptLogo.png'
+import  imge4 from '../assets/javaScriptlogo.jpg'
 import  imge5 from '../assets/material.svg'
 import  imge6 from '../assets/recoil.jpg'
 import  imge7 from '../assets/router.png'
@@ -14,39 +14,39 @@ const MySkills = () => {
 
     const skills=[
         {
-            skill:"HTML",
+            // skill:"HTML",
             url:imge2
         },
         {
-            skill:"CSS",
+            // skill:"CSS",
             url:imge3
         },
         {
-            skill:"JavaScript",
+            // skill:"JavaScript",
             url:imge4
         },
         {
-            skill:"React.js",
+            // skill:"React.js",
              url:imge
         },
         {
-            skill:"Material UI",
+            // skill:"Material UI",
             url:imge5
         },
         {
-            skill:"Recoil",
+            // skill:"Recoil",
             url:imge6
         },
         {
-            skill:"React-Router-DOM",
+            // skill:"React-Router-DOM",
             url:imge7
         },
         {
-            skill:"GitBash",
+            // skill:"GitBash",
             url:imge8
         },
         {
-            skill:"GitHub",
+            // skill:"GitHub",
             url:imge9
         }
     ]
